@@ -30,3 +30,14 @@ To develop a basic yet effective Java-based calculator that allows users to perf
 
 ### Technologies Used:
 - **Java Programming Language**
+
+![image](https://github.com/user-attachments/assets/6c41380d-3a25-40b5-b17e-09fe832b5c08)
+
+![image](https://github.com/user-attachments/assets/3edd819a-e3b4-436c-9831-e432ceda4273)
+
+![image](https://github.com/user-attachments/assets/41139683-10b7-410d-ac93-1bb0d9bdc805)
+
+![image](https://github.com/user-attachments/assets/c5d4e76f-81b2-422a-9c5d-fb76c6be72a8)
+
+
+
