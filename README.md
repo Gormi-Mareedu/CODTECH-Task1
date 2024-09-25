@@ -3,33 +3,30 @@
 **ID**: CT08DS8196  
 **Domain**: Java Programming  
 **Duration**: September to October 2024  
-**Mentor**: Muzammil  
+**Mentor**: Muzammil   
 
+---
 
 ### Overview:
-This project, developed during my internship at CodTech IT Solutions under the mentorship of Muzammil, focuses on creating two essential Java applications: a **Simple Calculator** and a **Student Grade Tracker**.
+The **Simple Calculator** is a basic Java application designed to perform elementary arithmetic operations such as addition, subtraction, multiplication, and division. This user-friendly program takes two numbers as input and allows the user to select an operation, displaying the result in a clear and concise manner.
 
-1. **Simple Calculator**: A basic calculator that allows users to perform addition, subtraction, multiplication, and division. The program prompts the user to input two numbers and select an operation, then outputs the calculated result.
-
-2. **Student Grade Tracker**: This program helps track student grades across various subjects or assignments. It allows the user to input grades, calculates the average, and displays the overall performance in terms of letter grade or GPA, offering a simple solution for managing academic performance.
-
-
-### Project Name: **Java Essentials: Calculator & Grade Tracker**
+### Project Name: **Simple Calculator**
 
 ### Objective:
-To develop effective and user-friendly Java applications that perform essential calculations and facilitate student grade tracking.
+To develop a basic yet effective Java-based calculator that allows users to perform simple arithmetic operations (addition, subtraction, multiplication, and division) and provides accurate and immediate results.
 
 ### Key Activities:
-- Creating a basic calculator for simple arithmetic operations.
-- Developing a grade tracking system that calculates averages and displays letter grades or GPA.
-- Implementing user input handling and validation.
-- Ensuring accuracy in computations and displaying results clearly.
+- **User Input**: The program prompts the user to input two numbers and select the desired arithmetic operation.
+- **Operation Execution**: The calculator performs the chosen operation (addition, subtraction, multiplication, or division) on the provided numbers.
+- **Result Display**: After performing the operation, the result is displayed to the user in a clear format.
+- **Error Handling**: The program includes error handling, especially for cases such as division by zero or invalid input formats (non-numeric values).
+- **Modular Structure**: The calculator logic is divided into functions for each operation, making the code easy to maintain and extend.
 
 ### Key Insights:
-- **Modularity**: The project emphasizes breaking down complex tasks into simpler, more manageable modules, such as separating calculator operations and grade computations.
-- **User-Friendly Interface**: Focusing on making both applications easy to use, with intuitive prompts for user input and clear feedback on results.
-- **Data Validation**: Implementing proper checks to ensure valid inputs, particularly for division operations in the calculator (e.g., handling division by zero) and valid grade entries in the grade tracker.
-- **Reusability**: The code structure allows easy modification and expansion, such as adding new mathematical operations to the calculator or extending the grading scale in the tracker.
+- **Simplicity**: The project emphasizes simplicity in both the user interface and the underlying code, providing a smooth experience for basic arithmetic tasks.
+- **Data Validation**: Proper validation ensures that only valid inputs (numeric values) are accepted, and the program handles errors gracefully, such as preventing division by zero.
+- **Modular Approach**: The program’s modular design makes it easy to extend functionality. Additional features, such as more complex operations (e.g., exponentiation, square roots), could be added with minimal changes.
+- **Reusability**: The core logic for arithmetic operations can be reused or integrated into more complex systems if needed.
 
 ### Technologies Used:
 - **Java Programming Language**
